@@ -16,7 +16,8 @@ The Pulsar Package Frontend provides several themes to find the style that suite
   * Atom.io Theme - The default theme which is based off the [Original Atom Package Browser](https://atom.io/packages)
   * GitHub Dark - A theme based off the GitHub Dark Theme.
   * Dracula - A theme based off the versatile [Dracula](https://draculatheme.com/) theme🧛
-  * One-Dark - A theme based after the built in Pulsar UI Theme One-Dark.
+  * One-Dark - A theme based off the built in Pulsar UI Theme One-Dark.
+  * One-Light - A theme based off the built in Pulsar UI Theme One-Light.
 
 If there isn't a theme yet that fits you, creating a new theme is welcome, encouraged, and easy.
 
